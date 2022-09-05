@@ -1,0 +1,19 @@
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+  width: 150px;
+}
+table {
+  border-collapse: collapse;
+}
+.last-colm {
+  width: 300px;
+}
+
+.container input {
+  height: 50px;
+  border-radius: 40px;
+  width: 500px;
+  border: 1px solid lightgray;
+}
